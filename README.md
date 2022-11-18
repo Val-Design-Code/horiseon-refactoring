@@ -12,10 +12,10 @@ Checking Horiseon agency website for accessibility and optimising it for searh e
 
 - :point_right: Create a new repository
 - :point_right: Clone the repository to local machine
-- :point_right: :point_right: :point_right: Move unziped files to the repository
-- :point_right: :point_right: Checking accessibility errors using different tools like W3C
-- :point_right: :point_right: Making changes
-- :point_right: :point_right: Pushing finished project to GitHub
+- :point_right: Move unziped files to the repository
+- :point_right: Checking accessibility errors using different tools like W3C
+- :point_right: Making changes
+- :point_right: Pushing finished project to GitHub
 
 ## Things to look for
 
